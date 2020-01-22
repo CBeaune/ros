@@ -1,0 +1,3 @@
+Host turtlebot
+	HostName turtlebot2.local
+	User turtlebot
